@@ -49,3 +49,21 @@ article {
     padding: 20px;
     margin-bottom: 15px;
 }
+2, h3 {
+    color: #B84A3A;
+}
+
+article img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+}
+
+img.centrada {
+    display: block;
+    margin: 15px auto;
+}
+
+ul, ol {
+    text-align: left;
+}
